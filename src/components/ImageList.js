@@ -1,7 +1,7 @@
 import React from "react";
 
 const ImageList = (props) => {
-  // console.log(props.images);
+  console.log(props.images);
 
   return props.images.map((image) => {
     return (
@@ -9,7 +9,7 @@ const ImageList = (props) => {
     );
   });
 
-  return <div>ImageList</div>;
+  // return <div>ImageList</div>;
 };
 
 export default ImageList;
