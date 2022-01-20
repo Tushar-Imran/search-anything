@@ -15,8 +15,7 @@ class SearchBar extends React.Component {
         <form onSubmit={this.onFormSubmit} className="ui form">
           <div className="field">
             <label>
-              Type anything then press Enter to get Images -
-              jhaklsjbjhbsldkjfblkjasdbf
+              Type anything then press Enter to get Images - 00000000000000000
             </label>
             <input
               type="text"
